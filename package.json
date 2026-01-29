@@ -1,6 +1,7 @@
 {
-  "name": "back4app-telegram-bot",
+  "name": "telegram-bot-back4app",
   "version": "1.0.0",
+  "description": "Telegram Bot hosted on Back4App",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
